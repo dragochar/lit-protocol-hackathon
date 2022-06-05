@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Note
+
+Install all packages and run the server. Check the consone logs to see the error currently happening
+
+The testing.js file is where all the Lit protocol stuff happens.
+
+Based off of this: https://developer.litprotocol.com/docs/LitTools/JSSDK/dynamicContent
+
+The Solana integration portion is based off of this: https://developer.litprotocol.com/docs/AccessControlConditions/solRpcConditions
+
 ## Available Scripts
 
 In the project directory, you can run:
